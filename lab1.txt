@@ -1,1 +1,2 @@
 My first DevOps Git lab
+Git is easy but tricky.
