@@ -213,3 +213,6 @@ with tab3:
         st.table(filtered_data[display_cols].head(10))
     else:
         st.warning("No players found for the selected team and position.")
+if __name__ == "__main__":
+    pass
+
